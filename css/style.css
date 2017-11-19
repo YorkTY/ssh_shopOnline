@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/** 以下是必要样式 **/
+
+/* menu */
+.menu{position:relative;width:1210px;margin:0px auto;height:40px;}
+.menu div{position:absolute;top:0px;height:40px;font-family:"Microsoft Yahei";}
+.menu .all-sort{left:0px;width:200px;text-align:center;font-size:14px;}
+.menu .all-sort a{color:#FFF;display:block;width:100%;height:100%;line-height:10px;font:700 15px/40px "Microsoft Yahei";background-color:#E4393C;}
+.topp{margin-left:210px;}
+.menu ul li{margin-right:25px;}
+.menu ul li a{color:#3C3C3C;}
+.menu ul li a:hover{color:#FF2D2D; background-color:#FFF;}
